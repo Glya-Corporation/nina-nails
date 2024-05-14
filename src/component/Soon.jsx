@@ -1,4 +1,4 @@
-const Sonn = () => {
+const Soon = () => {
   return (
     <main className='soon'>
       <h2>
