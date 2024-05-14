@@ -3,10 +3,11 @@ const Soon = () => {
     <main className='soon'>
       <h2>
         Sitio Web
-      </h2>
-      <h1>
+        <h1>
         ¡próximamente disponible!
       </h1>
+      </h2>
+      
     </main>
   )
 }
