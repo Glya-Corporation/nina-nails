@@ -7,9 +7,8 @@ import Home from './pages/Home';
 function App() {
   return (
     <HashRouter>
-    <Soon />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/' element={<Soon />} />
       </Routes>
     </HashRouter>
   );
