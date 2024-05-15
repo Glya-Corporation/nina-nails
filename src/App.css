@@ -133,6 +133,7 @@ li {
   justify-content: center;
 }
 
-.soon h2 {
+.soon h2,
+.soon p {
   text-align: center;
 }

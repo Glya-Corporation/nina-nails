@@ -2,7 +2,9 @@ const Soon = () => {
   return (
     <main className='soon'>
       <h2>
-        Sitio Web
+        <p>
+          Sitio Web
+        </p>
         ¡próximamente disponible!
       </h2>
       
