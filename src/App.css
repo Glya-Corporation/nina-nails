@@ -137,3 +137,21 @@ li {
 .soon p {
   text-align: center;
 }
+
+.wsicon {
+  width: 4.5rem;
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  animation: giro 5s infinite;
+}
+
+@keyframes giro {
+  from {
+    transform: rotateY(0deg);
+  }
+
+  to {
+    transform: rotateY(360deg);
+  }
+}
